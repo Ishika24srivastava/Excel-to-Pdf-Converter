@@ -1,0 +1,10 @@
+E:\csharp\InvoiceGenerator-WinForm\bin\Debug\InvoiceGenerator-WinForm.exe.config
+E:\csharp\InvoiceGenerator-WinForm\bin\Debug\InvoiceGenerator-WinForm.exe
+E:\csharp\InvoiceGenerator-WinForm\bin\Debug\InvoiceGenerator-WinForm.pdb
+E:\csharp\InvoiceGenerator-WinForm\obj\Debug\InvoiceGenerator-WinForm.csproj.AssemblyReference.cache
+E:\csharp\InvoiceGenerator-WinForm\obj\Debug\InvoiceGenerator_WinForm.Form1.resources
+E:\csharp\InvoiceGenerator-WinForm\obj\Debug\InvoiceGenerator_WinForm.Properties.Resources.resources
+E:\csharp\InvoiceGenerator-WinForm\obj\Debug\InvoiceGenerator-WinForm.csproj.GenerateResource.cache
+E:\csharp\InvoiceGenerator-WinForm\obj\Debug\InvoiceGenerator-WinForm.csproj.CoreCompileInputs.cache
+E:\csharp\InvoiceGenerator-WinForm\obj\Debug\InvoiceGenerator-WinForm.exe
+E:\csharp\InvoiceGenerator-WinForm\obj\Debug\InvoiceGenerator-WinForm.pdb

@@ -1,0 +1,30 @@
+E:\csharp\InvoiceGenerator-WinForm\bin\Release\InvoiceGenerator-WinForm.exe.config
+E:\csharp\InvoiceGenerator-WinForm\bin\Release\InvoiceGenerator-WinForm.exe
+E:\csharp\InvoiceGenerator-WinForm\bin\Release\InvoiceGenerator-WinForm.pdb
+E:\csharp\InvoiceGenerator-WinForm\obj\Release\InvoiceGenerator-WinForm.csproj.AssemblyReference.cache
+E:\csharp\InvoiceGenerator-WinForm\obj\Release\InvoiceGenerator_WinForm.Form1.resources
+E:\csharp\InvoiceGenerator-WinForm\obj\Release\InvoiceGenerator_WinForm.Properties.Resources.resources
+E:\csharp\InvoiceGenerator-WinForm\obj\Release\InvoiceGenerator-WinForm.csproj.GenerateResource.cache
+E:\csharp\InvoiceGenerator-WinForm\obj\Release\InvoiceGenerator-WinForm.csproj.CoreCompileInputs.cache
+E:\csharp\InvoiceGenerator-WinForm\obj\Release\InvoiceGenerator-WinForm.exe
+E:\csharp\InvoiceGenerator-WinForm\obj\Release\InvoiceGenerator-WinForm.pdb
+C:\Users\ishik\source\repos\003 Invoice Generator\bin\Release\InvoiceGenerator-WinForm.exe.config
+C:\Users\ishik\source\repos\003 Invoice Generator\bin\Release\InvoiceGenerator-WinForm.exe
+C:\Users\ishik\source\repos\003 Invoice Generator\bin\Release\InvoiceGenerator-WinForm.pdb
+C:\Users\ishik\source\repos\003 Invoice Generator\obj\Release\InvoiceGenerator-WinForm.csproj.AssemblyReference.cache
+C:\Users\ishik\source\repos\003 Invoice Generator\obj\Release\InvoiceGenerator_WinForm.Form1.resources
+C:\Users\ishik\source\repos\003 Invoice Generator\obj\Release\InvoiceGenerator_WinForm.Properties.Resources.resources
+C:\Users\ishik\source\repos\003 Invoice Generator\obj\Release\InvoiceGenerator-WinForm.csproj.GenerateResource.cache
+C:\Users\ishik\source\repos\003 Invoice Generator\obj\Release\InvoiceGenerator-WinForm.csproj.CoreCompileInputs.cache
+C:\Users\ishik\source\repos\003 Invoice Generator\obj\Release\InvoiceGenerator-WinForm.exe
+C:\Users\ishik\source\repos\003 Invoice Generator\obj\Release\InvoiceGenerator-WinForm.pdb
+C:\Users\ishik\source\repos\003 Invoice Generator Win form\obj\Release\InvoiceGenerator-WinForm.csproj.AssemblyReference.cache
+C:\Users\ishik\source\repos\003 Invoice Generator Win form\obj\Release\InvoiceGenerator_WinForm.Form1.resources
+C:\Users\ishik\source\repos\003 Invoice Generator Win form\obj\Release\InvoiceGenerator_WinForm.Properties.Resources.resources
+C:\Users\ishik\source\repos\003 Invoice Generator Win form\obj\Release\InvoiceGenerator-WinForm.csproj.GenerateResource.cache
+C:\Users\ishik\source\repos\003 Invoice Generator Win form\obj\Release\InvoiceGenerator-WinForm.csproj.CoreCompileInputs.cache
+C:\Users\ishik\source\repos\003 Invoice Generator Win form\obj\Release\InvoiceGenerator-WinForm.exe
+C:\Users\ishik\source\repos\003 Invoice Generator Win form\obj\Release\InvoiceGenerator-WinForm.pdb
+C:\Users\ishik\source\repos\003 Invoice Generator Win form\bin\Release\InvoiceGenerator-WinForm.exe.config
+C:\Users\ishik\source\repos\003 Invoice Generator Win form\bin\Release\InvoiceGenerator-WinForm.exe
+C:\Users\ishik\source\repos\003 Invoice Generator Win form\bin\Release\InvoiceGenerator-WinForm.pdb
